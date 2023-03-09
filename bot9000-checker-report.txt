@@ -1,11 +1,2 @@
-Error: Bad value http: //www.simplysyndicated.com/wp-content/uploads/2013/04/hott-robot-love-image.jpg for attribute href on element a: Expected a slash ("/").
+Document checking completed. No errors or warnings to show.
 
-From line 17, column 5; to line 17, column 100
-
-lain ↩    <a href="http: //www.simplysyndicated.com/wp-content/uploads/2013/04/hott-robot-love-image.jpg">love</
-
-Error: An img element must have an alt attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-
-From line 36, column 3; to line 36, column 29
-
-e</h2>↩↩  <img src="images/adam.jpg">↩  <im
