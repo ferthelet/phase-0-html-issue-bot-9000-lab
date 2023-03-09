@@ -1,0 +1,317 @@
+Error: Heading cannot be a child of another heading.
+
+From line 9, column 46; to line 9, column 49
+
+for Issues<h1>↩↩  <h
+
+Error: Heading cannot be a child of another heading.
+
+From line 11, column 3; to line 11, column 6
+
+es<h1>↩↩  <h2>Issue 
+
+Warning: Empty heading.
+
+From line 9, column 46; to line 9, column 49
+
+for Issues<h1>↩↩  <h
+
+Error: A slash was not immediately followed by >.
+
+At line 13, column 184
+
+ <ahref="http://www.simplysynd
+
+Error: A slash was not immediately followed by >.
+
+At line 13, column 185
+
+<ahref="http://www.simplysyndi
+
+Error: A slash was not immediately followed by >.
+
+At line 13, column 210
+
+syndicated.com/wp-content/uplo
+
+Error: A slash was not immediately followed by >.
+
+At line 13, column 221
+
+com/wp-content/uploads/2013/04
+
+Error: A slash was not immediately followed by >.
+
+At line 13, column 229
+
+ontent/uploads/2013/04/hott-ro
+
+Error: A slash was not immediately followed by >.
+
+At line 13, column 234
+
+t/uploads/2013/04/hott-robot-l
+
+Error: A slash was not immediately followed by >.
+
+At line 13, column 237
+
+ploads/2013/04/hott-robot-love
+
+Error: Quote " in attribute name. Probable cause: Matching quote missing somewhere earlier.
+
+At line 13, column 262
+
+-love-image.jpg">love</a> to i
+
+Warning: Attribute 2013 is not serializable as XML 1.0.
+
+From line 13, column 170; to line 13, column 263
+
+e explain <ahref="http://www.simplysyndicated.com/wp-content/uploads/2013/04/hott-robot-love-image.jpg">love</
+
+Warning: Attribute 04 is not serializable as XML 1.0.
+
+From line 13, column 170; to line 13, column 263
+
+e explain <ahref="http://www.simplysyndicated.com/wp-content/uploads/2013/04/hott-robot-love-image.jpg">love</
+
+Warning: Attribute hott-robot-love-image.jpg" is not serializable as XML 1.0.
+
+From line 13, column 170; to line 13, column 263
+
+e explain <ahref="http://www.simplysyndicated.com/wp-content/uploads/2013/04/hott-robot-love-image.jpg">love</
+
+Warning: Element name ahref="http: cannot be represented as XML 1.0.
+
+From line 13, column 170; to line 13, column 263
+
+e explain <ahref="http://www.simplysyndicated.com/wp-content/uploads/2013/04/hott-robot-love-image.jpg">love</
+
+Error: Element ahref="http: not allowed as child of element p in this context. (Suppressing further errors from this subtree.)
+
+From line 13, column 170; to line 13, column 263
+
+e explain <ahref="http://www.simplysyndicated.com/wp-content/uploads/2013/04/hott-robot-love-image.jpg">love</
+
+Content model for element p:
+Phrasing content.
+Error: Stray end tag a.
+
+From line 13, column 268; to line 13, column 271
+
+.jpg">love</a> to is
+
+Error: End tag p seen, but there were open elements.
+
+From line 13, column 301; to line 13, column 304
+
+s input...</p>↩  <p>
+
+Error: Unclosed element ahref="http:.
+
+From line 13, column 170; to line 13, column 263
+
+e explain <ahref="http://www.simplysyndicated.com/wp-content/uploads/2013/04/hott-robot-love-image.jpg">love</
+
+Error: Element spab not allowed as child of element p in this context. (Suppressing further errors from this subtree.)
+
+From line 14, column 49; to line 14, column 54
+
+le oh no! <spab>Issue<
+
+Content model for element p:
+Phrasing content.
+Error: Stray end tag span.
+
+From line 14, column 60; to line 14, column 66
+
+spab>Issue</span> bot d
+
+Error: End tag p seen, but there were open elements.
+
+From line 14, column 122; to line 14, column 125
+
+t ashamed.</p>↩  <p 
+
+Error: Unclosed element spab.
+
+From line 14, column 49; to line 14, column 54
+
+le oh no! <spab>Issue<
+
+Error: < in attribute name. Probable cause: > missing immediately before.
+
+At line 15, column 45
+
+led oil change.</p>↩  <p>3:15p
+
+Error: A slash was not immediately followed by >.
+
+At line 15, column 47
+
+d oil change.</p>↩  <p>3:15pm 
+
+Warning: Attribute 10:00am is not serializable as XML 1.0.
+
+From line 15, column 3; to line 15, column 48
+
+ed.</p>↩  <p 10:00am Issue bot scheduled oil change.</p>↩  <p>
+
+Warning: Attribute change.< is not serializable as XML 1.0.
+
+From line 15, column 3; to line 15, column 48
+
+ed.</p>↩  <p 10:00am Issue bot scheduled oil change.</p>↩  <p>
+
+Error: Attribute 10:00am not allowed on element p at this point.
+
+From line 15, column 3; to line 15, column 48
+
+ed.</p>↩  <p 10:00am Issue bot scheduled oil change.</p>↩  <p>
+
+Attributes for element p:
+Global attributes
+Error: Attribute issue not allowed on element p at this point.
+
+From line 15, column 3; to line 15, column 48
+
+ed.</p>↩  <p 10:00am Issue bot scheduled oil change.</p>↩  <p>
+
+Attributes for element p:
+Global attributes
+Error: Attribute bot not allowed on element p at this point.
+
+From line 15, column 3; to line 15, column 48
+
+ed.</p>↩  <p 10:00am Issue bot scheduled oil change.</p>↩  <p>
+
+Attributes for element p:
+Global attributes
+Error: Attribute scheduled not allowed on element p at this point.
+
+From line 15, column 3; to line 15, column 48
+
+ed.</p>↩  <p 10:00am Issue bot scheduled oil change.</p>↩  <p>
+
+Attributes for element p:
+Global attributes
+Error: Attribute oil not allowed on element p at this point.
+
+From line 15, column 3; to line 15, column 48
+
+ed.</p>↩  <p 10:00am Issue bot scheduled oil change.</p>↩  <p>
+
+Attributes for element p:
+Global attributes
+Error: Attribute change.< not allowed on element p at this point.
+
+From line 15, column 3; to line 15, column 48
+
+ed.</p>↩  <p 10:00am Issue bot scheduled oil change.</p>↩  <p>
+
+Attributes for element p:
+Global attributes
+Error: Attribute p not allowed on element p at this point.
+
+From line 15, column 3; to line 15, column 48
+
+ed.</p>↩  <p 10:00am Issue bot scheduled oil change.</p>↩  <p>
+
+Attributes for element p:
+Global attributes
+Error: End tag h3 seen, but there were open elements.
+
+From line 19, column 22; to line 19, column 26
+
+ Bot Tasks</h3>↩↩  <l
+
+Error: Element li not allowed as child of element body in this context. (Suppressing further errors from this subtree.)
+
+From line 21, column 3; to line 21, column 6
+
+s</h3>↩↩  <li>↩    <
+
+Contexts in which element li may be used:
+Inside ol elements.
+Inside ul elements.
+Inside menu elements.
+Content model for element body:
+Flow content.
+Error: No li element in scope but a li end tag seen.
+
+From line 26, column 3; to line 26, column 7
+
+sh</ul>↩  </li>↩↩  <h
+
+Error: < in attribute name. Probable cause: > missing immediately before.
+
+At line 28, column 39
+
+Capture Archive</h2>↩↩  <img s
+
+Error: A slash was not immediately followed by >.
+
+At line 28, column 41
+
+pture Archive</h2>↩↩  <img src
+
+Warning: Attribute archive< is not serializable as XML 1.0.
+
+From line 28, column 3; to line 28, column 43
+
+ </li>↩↩  <h2 Issue Bot Camera Capture Archive</h2>↩↩  <i
+
+Error: An img element must have an alt attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+
+From line 30, column 3; to line 30, column 29
+
+e</h2>↩↩  <img src="images/adam.jpg">↩  <im
+
+Error: End tag for body seen, but there were unclosed elements.
+
+From line 34, column 1; to line 34, column 7
+
+_blank">↩↩</body>↩</htm
+
+Error: Unclosed element h2.
+
+From line 28, column 3; to line 28, column 43
+
+ </li>↩↩  <h2 Issue Bot Camera Capture Archive</h2>↩↩  <i
+
+Error: Unclosed element ul.
+
+From line 24, column 39; to line 24, column 42
+
+collection<ul>↩    <
+
+Error: Unclosed element ul.
+
+From line 24, column 5; to line 24, column 8
+
+</ul>↩    <ul>Archiv
+
+Error: Unclosed element ul.
+
+From line 22, column 5; to line 22, column 8
+
+ <li>↩    <ul>Debug 
+
+Error: Stray end tag head.
+
+From line 36, column 1; to line 36, column 7
+
+>↩</html>↩</head>
+
+Error: Stray end tag head.
+
+From line 36, column 1; to line 36, column 7
+
+>↩</html>↩</head>
+
+Error: End of file seen and there were open elements.
+
+From line 36, column 1; to line 36, column 7
+
+>↩</html>↩</head>
